@@ -220,7 +220,7 @@
 		}
 	,
 	 {
-   "title":"Wataniya 1",
+   "title":"KSA1 Live",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
@@ -229,14 +229,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"http://www.watania1.tn/"     ]
+"https://wwitv.com/tv_channels/b3234-Saudi-1-TV-Live.htm"     ]
       }
     ]
 
   },
 	
 	 {
-   "title":"Wataniya 2",
+   "title":"الإخبارية",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
@@ -245,14 +245,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"http://www.watania2.tn/"     ]
+"https://www.youtube.com/watch?v=X_QcF3Gloc4"     ]
       }
     ]
 
   },
   
   {
-   "title":"إعادات",
+   "title":"SBC Channel",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -261,13 +261,13 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"http://replay.tunisiatv.tn/"        ]
+"https://www.shashatcom.sa/live/"        ]
       }
     ]
 
   },
 {
-   "title":"قلب الذيب",
+   "title":"Al Sounna Nabawia",
     "drawable":"",
     "submenu":"مسلسلات",
     "iap":false,
@@ -276,14 +276,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"http://medooappli.xyz/ramadan.html"        ]
+"http://www.1arablive.com/livetv/single-channel/90/al-sounna-nabawia"        ]
       }
     ]
 
   },	
 	    
 {
-   "title":"Nessma TV",
+   "title":"Saudi Sports",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
@@ -292,13 +292,13 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"https://www.nessma.tv/fr/live"        ]
+"http://www.1arablive.com/livetv/single-channel/83/saudi-sports"        ]
       }
     ]
 
   },
 		 {
-   "title":"ElHiwar Ettounsi",
+   "title":"ZAD TV",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
@@ -307,7 +307,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"https://elhiwarettounsi.com/live.html"        ]
+"https://www.youtube.com/watch?v=IC6ZhmNY19Q&feature=emb_title"        ]
       }
     ]
 
