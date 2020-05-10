@@ -250,7 +250,6 @@
     ]
 
   },
-  
   {
    "title":"SBC Channel",
     "drawable":"",
@@ -266,24 +265,8 @@
     ]
 
   },
-{
-   "title":"Al Sounna Nabawia",
-    "drawable":"",
-    "submenu":"مسلسلات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.1arablive.com/livetv/single-channel/90/al-sounna-nabawia"        ]
-      }
-    ]
-
-  },	
-	    
-{
-   "title":"Saudi Sports",
+  	 {
+   "title":"MBC 1",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
@@ -292,38 +275,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"http://www.1arablive.com/livetv/single-channel/83/saudi-sports"        ]
-      }
-    ]
-
-  },
-		 {
-   "title":"ZAD TV",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.youtube.com/watch?v=IC6ZhmNY19Q&feature=emb_title"        ]
-      }
-    ]
-
-  },
-  
-		 {
-   "title":"Attassia Tv",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://iptv-planet.com/attassia.html"        ]
+"http://www.tunisvista.com/medias/mbc-tv-live-online-streaming-watch-now-1.html"        ]
       }
     ]
 
@@ -344,6 +296,171 @@
 
   }	
 	    ,
+	    	 {
+   "title":"MBC 3",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/mbc-3-tv-live-online-streaming.html"        ]
+      }
+    ]
+
+  },
+      	 {
+   "title":"MBC Max",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/mbc-max-tv-live-online-streaming.html"        ]
+      }
+    ]
+
+  },
+      	 {
+   "title":"MBC Action",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/mbc-action-tv-live-online-streaming.html"        ]
+      }
+    ]
+
+  },
+   {
+   "title":"Dubai Tv",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/dubai-tv-live.html"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"National Geographic",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://oui9mobi.com/iphone/e/ng/"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الإقتصادية السعودية",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://fomny.com/Video/Arabic/Saudi-2-Saudi-English/Saudi-Economy.php"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"القناة 9",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://alqanat9.com/live/"        ]
+      }
+    ]
+
+  },
+      	 {
+   "title":"Iqraa Tv",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/iqra-tv-live-online.html"        ]
+      }
+    ]
+
+  },
+      	 {
+   "title":"قناة الأقصى",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/al-aqsa-tv-live-direct-online-palestine.html"        ]
+      }
+    ]
+
+  },
+      	 {
+   "title":"قناة الشرق",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://tunisvista.com/medias/el-sharq-tv-live-online-streaming.html"        ]
+      }
+    ]
+
+  },
+      	 {
+   "title":"Dubai Tv",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/dubai-tv-live.html"        ]
+      }
+    ]
+
+  },
 	 {
    "title":"France 24 Ar",
     "drawable":"",
@@ -389,7 +506,7 @@
     "iap":false,
     "tabs":[
      {
-        "title":"Watania 1",
+        "title":"الجزيرة",
         "provider":"youtube",
         "arguments":[
           "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
@@ -432,17 +549,126 @@
     ]
 
   },
-		 {
-   "title":"BFM TV",
+  {
+   "title":"AD Sport 1",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"قنوات رياضية",
     "iap":false,
     "tabs":[
       {
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"https://www.bfmtv.com/mediaplayer/live-video/"        ]
+"http://www.tunisvista.com/medias/abu-dhabi-sports-1-live.html"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"KSA Sports 1",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=http://www.elahmad.com/tv/vlc/player_glarab.php?id=19"        ]
+      }
+    ]
+
+  },
+  
+  {
+   "title":"KSA Sports 2",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://fomny.com/Menu2/Pop3/iframe_plein_ecran-2.php?iframe=http://www.elahmad.com/tv/vlc/player_glarab.php?id=75"        ]
+      }
+    ]
+
+  },
+  
+  {
+   "title":"KSA Sports 1",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://fomny.com/Menu2/Pop3/Pop2-iframe-progtv-01.php?iframe=http://www.elahmad.com/tv/vlc/player_glarab.php?id=19"        ]
+      }
+    ]
+
+  },
+  
+  
+  {
+   "title":"Saudi Sports",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.1arablive.com/livetv/single-channel/83/saudi-sports"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"Saudi Sports",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.1arablive.com/livetv/single-channel/83/saudi-sports"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"Saudi Sports",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.1arablive.com/livetv/single-channel/83/saudi-sports"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"Saudi Sports",
+    "drawable":"",
+    "submenu":"قنوات رياضية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.1arablive.com/livetv/single-channel/83/saudi-sports"        ]
       }
     ]
 
