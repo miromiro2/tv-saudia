@@ -265,6 +265,36 @@
     ]
 
   },
+  {
+   "title":"Al Sounna Nabawia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.1arablive.com/livetv/single-channel/90/al-sounna-nabawia"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"ZAD TV",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.youtube.com/watch?v=IC6ZhmNY19Q&feature=emb_title"        ]
+      }
+    ]
+
+  },
   	 {
    "title":"MBC 1",
     "drawable":"",
