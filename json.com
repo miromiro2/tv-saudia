@@ -236,7 +236,7 @@
   },
 	
 	 {
-   "title":"الإخبارية",
+   "title":"الإخبارية مباشر",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -251,7 +251,7 @@
 
   },
   {
-   "title":"SBC Channel",
+   "title":"SBC Channel Live",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -268,7 +268,7 @@
   {
    "title":"Iqraa Tv",
     "drawable":"",
-    "submenu":"قنوات إسلامية",
+    "submenu":"قنوات إسلامية مباشر",
     "iap":false,
     "tabs":[
       {
