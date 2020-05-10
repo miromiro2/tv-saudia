@@ -283,7 +283,7 @@
   {
    "title":"قناة الرسالة",
     "drawable":"",
-    "submenu":"قنوات إسلامية",
+    "submenu":"قنوات إسلامية مباشر",
     "iap":false,
     "tabs":[
       {
@@ -298,7 +298,7 @@
   {
    "title":"Al Sounna Nabawia",
     "drawable":"",
-    "submenu":"قنوات إسلامية",
+    "submenu":"قنوات إسلامية مباشر",
     "iap":false,
     "tabs":[
       {
@@ -313,7 +313,7 @@
 		 {
    "title":"ZAD TV",
     "drawable":"",
-    "submenu":"قنوات إسلامية",
+    "submenu":"قنوات إسلامية مباشر",
     "iap":false,
     "tabs":[
       {
@@ -328,7 +328,7 @@
   {
    "title":"قناة ابن عثيمين",
     "drawable":"",
-    "submenu":"قنوات إسلامية",
+    "submenu":"قنوات إسلامية مباشر",
     "iap":false,
     "tabs":[
       {
