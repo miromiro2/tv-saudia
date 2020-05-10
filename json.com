@@ -266,9 +266,39 @@
 
   },
   {
+   "title":"Iqraa Tv",
+    "drawable":"",
+    "submenu":"قنوات إسلامية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/iqra-tv-live-online.html"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"قناة الرسالة",
+    "drawable":"",
+    "submenu":"قنوات إسلامية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://fomny.com/Video/Arabic/Al-resalah/Al-resalah.php"        ]
+      }
+    ]
+
+  },
+  {
    "title":"Al Sounna Nabawia",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"قنوات إسلامية",
     "iap":false,
     "tabs":[
       {
@@ -283,7 +313,7 @@
 		 {
    "title":"ZAD TV",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"قنوات إسلامية",
     "iap":false,
     "tabs":[
       {
@@ -291,6 +321,21 @@
         "provider":"webview",
         "arguments":[
 "https://www.youtube.com/watch?v=IC6ZhmNY19Q&feature=emb_title"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"قناة ابن عثيمين",
+    "drawable":"",
+    "submenu":"قنوات إسلامية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.youtube.com/watch?v=NeYVAzRiafE&feature=emb_title"        ]
       }
     ]
 
@@ -427,21 +472,6 @@
         "provider":"webview",
         "arguments":[
 "https://alqanat9.com/live/"        ]
-      }
-    ]
-
-  },
-      	 {
-   "title":"Iqraa Tv",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.tunisvista.com/medias/iqra-tv-live-online.html"        ]
       }
     ]
 
