@@ -222,7 +222,7 @@
 	 {
    "title":"KSA1 Live",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"الرجاء تفعيل خاصية دوران الصورة / بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -238,7 +238,7 @@
 	 {
    "title":"الإخبارية",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
