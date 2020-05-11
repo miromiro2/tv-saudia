@@ -45,15 +45,7 @@
         ]
      }
 	    ,
-	    {
-        "title":"MBC1",
-        "provider":"youtube",
-        "arguments":[
-          "UCPvObfhnwu_QNi6mc4z5UPQ",
-          "channel"
-
-        ]
-     },
+	  
 {
         "title":"Nat Geo Abu Dhabi",
         "provider":"youtube",
