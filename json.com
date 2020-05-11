@@ -44,28 +44,7 @@
 
         ]
      }
-	    ,
-	    {
-        "title":"MBC1",
-        "provider":"youtube",
-        "arguments":[
-          "UCPvObfhnwu_QNi6mc4z5UPQ",
-          "channel"
-
-        ]
-     }
-	    ,
- {
-        "title":"alquanat 9",
-        "provider":"youtube",
-        "arguments":[
-          "UCd7iPWvZCpXMIarpFhn_Bgg",
-          "channel"
-
-        ]
-     }
-	    ,
-	  
+	    ,	  
 {
         "title":"Nat Geo Abu Dhabi",
         "provider":"youtube",
