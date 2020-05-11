@@ -63,8 +63,7 @@
           "channel"
 
         ]
-     }
-	         ,		   
+     },		   
 	 {
         "title":"الحدث",
         "provider":"youtube",
@@ -73,8 +72,7 @@
           "channel"
 
         ]
-     }
-	           ,
+     },
 	 {
         "title":"Al Jazeera",
         "provider":"youtube",
@@ -83,8 +81,7 @@
           "channel"
 
         ]
-     }
-	           ,
+     },
 	 {
         "title":"قناة العربية ",
         "provider":"youtube",
@@ -95,8 +92,7 @@
         ]
      }
 	    ]
-		}
-	,	    
+		},	    
 	     	 {
         "title":"Jeddah Radio",
         "provider":"youtube",
@@ -105,10 +101,7 @@
           "channel"
 
         ]
-     }
-	    ,
-	     	
-	     	
+     } ,    	
  {
         "title":"AlQuranHD",
         "provider":"youtube",
@@ -117,8 +110,7 @@
           "channel"
 
         ]
-     }
-	    ,	    
+     } ,	    
 	     	 
      {
         "title":"إذاعةQuran",
@@ -128,8 +120,7 @@
           "channel"
 
         ]
-     }
-	    ,
+     },
 	 {
         "title":"Quran channel",
         "provider":"youtube",
@@ -138,11 +129,8 @@
           "channel"
 
         ]
-     }
-	        ,
-	 
-	 
-		  {
+     },
+  {
         "title":"MBC1",
         "provider":"youtube",
         "arguments":[
@@ -150,8 +138,7 @@
           "channel"
 
         ]
-     }
-	      ,
+     },
 	       {
         "title":"alquanat 9",
         "provider":"youtube",
@@ -160,8 +147,7 @@
           "channel"
 
         ]
-     }
-	      ,
+     },
 	      {
         "title":"Sport",
         "provider":"youtube",
@@ -170,8 +156,7 @@
           "channel"
 
         ]
-     }
-	         ,
+     },
 	       {
         "title":"قناة اقرأ",
         "provider":"youtube",
@@ -180,8 +165,7 @@
           "channel"
 
         ]
-     }
-	      ,
+     },
 		  {
         "title":"قناة زاد العلمية",
         "provider":"youtube",
@@ -190,9 +174,7 @@
           "channel"
 
         ]
-     }
-	      ,
-	
+     },
 	 {
         "title":"قناة الرسالة",
         "provider":"youtube",
@@ -201,8 +183,7 @@
           "channel"
 
         ]
-     }
-	          ,
+     },
 	
 	 {
         "title":"إبن عثيمين",
@@ -212,8 +193,7 @@
           "channel"
 
         ]
-     }
-	           ,
+     },
 	 
 	 {
    "title":"KSA1 Live",
