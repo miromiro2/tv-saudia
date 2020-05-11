@@ -744,7 +744,7 @@
      ]
      }
 	,	
-  {
+ {
     "title":"عن التطبيق",
     "drawable":"",
     "submenu":"اخري",
@@ -754,7 +754,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aramexapps.appa.sauditv.SettingsFragment", "fragment"
+          "com.knoozapps.appm.halta3lam.SettingsFragment", "fragment"
         ]
       }
     ]
