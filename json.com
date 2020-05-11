@@ -754,7 +754,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.knoozapps.appm.halta3lam.SettingsFragment", "fragment"
+          "com.aramexapps.appa.sauditv.SettingsFragment", "fragment"
         ]
       }
     ]
