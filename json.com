@@ -45,6 +45,15 @@
         ]
      }
 	    ,
+	    {
+        "title":"MBC1",
+        "provider":"youtube",
+        "arguments":[
+          "UCPvObfhnwu_QNi6mc4z5UPQ",
+          "channel"
+
+        ]
+     },
 {
         "title":"Nat Geo Abu Dhabi",
         "provider":"youtube",
@@ -93,6 +102,43 @@
      }
 	    ]
 		},
+		 {
+        "title":"Jeddah Radio",
+        "provider":"youtube",
+        "arguments":[
+          "UC2012dTs3N2LrkOeI_QvswQ",
+          "channel"
+
+        ]
+     } ,    	
+ {
+        "title":"AlQuranHD",
+        "provider":"youtube",
+        "arguments":[
+          "UCraPI8sg-eiNzUrurxhKeEQ",
+          "channel"
+
+        ]
+     } ,	    
+	     	 
+     {
+        "title":"إذاعةQuran",
+        "provider":"youtube",
+        "arguments":[
+          "UCrZNAOv_KBLfb-3TFgxIZqg",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"Quran channel",
+        "provider":"youtube",
+        "arguments":[
+          "UCos52azQNBgW63_9uDJoPDA",
+          "channel"
+
+        ]
+     },
 	
 	  {
    "title":"KSA1 Live",
