@@ -107,20 +107,20 @@
      }
 	         ,
 		  {
-        "title":"Zitouna TV",
+        "title":"MBC1",
         "provider":"youtube",
         "arguments":[
-          "UCGtFpP5z1FWT0P-FrfaFk_Q",
+          "UCPvObfhnwu_QNi6mc4z5UPQ",
           "channel"
 
         ]
      }
 	      ,
 	       {
-        "title":"HANNIBAL TV",
+        "title":"alquanat 9",
         "provider":"youtube",
         "arguments":[
-          "UCMowjs_MJ-oIWEeHUu3DrOQ",
+          "UCd7iPWvZCpXMIarpFhn_Bgg",
           "channel"
 
         ]
