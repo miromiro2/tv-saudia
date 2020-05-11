@@ -1,4 +1,98 @@
 [
+{
+     "title":"إعادات",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+	  {
+        "title":"السنة النبوية",
+        "provider":"youtube",
+        "arguments":[
+          "UCROKYPep-UuODNwyipe6JMw",
+          "channel"
+
+        ]
+     }
+	    ,         
+	 {
+        "title":"السعودية",
+        "provider":"youtube",
+        "arguments":[
+          "UC2mWeEHv9IY6i74okFMkGPw",
+          "channel"
+
+        ]
+     }
+	    ,
+	    	 {
+        "title":"السعودية الإخبارية",
+        "provider":"youtube",
+        "arguments":[
+          "UCV01ajGl6nt09h40iDoHDNg",
+          "channel"
+
+        ]
+     }
+	    ,
+ {
+        "title":"SBC Channel",
+        "provider":"youtube",
+        "arguments":[
+          "UCfG0mfIwxrZn1MjsA994oAg",
+          "channel"
+
+        ]
+     }
+	    ,
+{
+        "title":"Nat Geo Abu Dhabi",
+        "provider":"youtube",
+        "arguments":[
+          "UCLiTe0aOHShx7hXGyqZ9UIw",
+          "channel"
+
+        ]
+     }
+	           ,
+ {
+        "title":"France 24",
+        "provider":"youtube",
+        "arguments":[
+          "UCdTyuXgmJkG_O8_75eqej-w",
+          "channel"
+
+        ]
+     },		   
+	 {
+        "title":"الحدث",
+        "provider":"youtube",
+        "arguments":[
+          "UCrj5BGAhtWxDfqbza9T9hqA",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"Al Jazeera",
+        "provider":"youtube",
+        "arguments":[
+          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+        ]
+     }
+	    ]
+		},
 	
 	  {
    "title":"KSA1 Live",
