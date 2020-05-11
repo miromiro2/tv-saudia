@@ -35,6 +35,68 @@
         ]
      }
 	    ,
+ {
+        "title":"SBC Channel",
+        "provider":"youtube",
+        "arguments":[
+          "UCfG0mfIwxrZn1MjsA994oAg",
+          "channel"
+
+        ]
+     }
+	    ,
+{
+        "title":"Nat Geo Abu Dhabi",
+        "provider":"youtube",
+        "arguments":[
+          "UCLiTe0aOHShx7hXGyqZ9UIw",
+          "channel"
+
+        ]
+     }
+	           ,
+ {
+        "title":"France 24",
+        "provider":"youtube",
+        "arguments":[
+          "UCdTyuXgmJkG_O8_75eqej-w",
+          "channel"
+
+        ]
+     }
+	         ,		   
+	 {
+        "title":"الحدث",
+        "provider":"youtube",
+        "arguments":[
+          "UCrj5BGAhtWxDfqbza9T9hqA",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"Al Jazeera",
+        "provider":"youtube",
+        "arguments":[
+          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+        ]
+     }
+	    ]
+		}
+	,	    
 	     	 {
         "title":"Jeddah Radio",
         "provider":"youtube",
@@ -45,7 +107,9 @@
         ]
      }
 	    ,
-	     	 {
+	     	
+	     	
+ {
         "title":"AlQuranHD",
         "provider":"youtube",
         "arguments":[
@@ -54,17 +118,7 @@
 
         ]
      }
-	    ,
-	     	 {
-        "title":"SBC Channel",
-        "provider":"youtube",
-        "arguments":[
-          "UCfG0mfIwxrZn1MjsA994oAg",
-          "channel"
-
-        ]
-     }
-	    ,
+	    ,	    
 	     	 
      {
         "title":"إذاعةQuran",
@@ -86,26 +140,8 @@
         ]
      }
 	        ,
-	 {
-        "title":"Quran ch 2",
-        "provider":"youtube",
-        "arguments":[
-          "UCos52azQNBgW63_9uDJoPDA",
-          "channel"
-
-        ]
-     }
-	          ,
-	 {
-        "title":"Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UCLo2xigvxv9ksxp78AyCBTw",
-          "channel"
-
-        ]
-     }
-	         ,
+	 
+	 
 		  {
         "title":"MBC1",
         "provider":"youtube",
@@ -126,21 +162,31 @@
         ]
      }
 	      ,
-	       {
-        "title":"Carthage Plus",
+	      {
+        "title":"Sport",
         "provider":"youtube",
         "arguments":[
-          "UCGUJmSULytsw0igdrXvo7mw",
+          "UCLo2xigvxv9ksxp78AyCBTw",
+          "channel"
+
+        ]
+     }
+	         ,
+	       {
+        "title":"قناة اقرأ",
+        "provider":"youtube",
+        "arguments":[
+          "UCiC_h4iC9s7Ddr3CT82_EpA",
           "channel"
 
         ]
      }
 	      ,
 		  {
-        "title":"foot24",
+        "title":"قناة زاد العلمية",
         "provider":"youtube",
         "arguments":[
-          "UCuPDFRItTEn34XWqAcdCgNg",
+          "UCOll3M-P7oKs5cSrQ9ytt6g",
           "channel"
 
         ]
@@ -148,77 +194,27 @@
 	      ,
 	
 	 {
-        "title":"الجزيرة",
+        "title":"قناة الرسالة",
         "provider":"youtube",
         "arguments":[
-          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "UCBVUg4nQTryjzB2mQRNTJIw",
           "channel"
 
         ]
      }
 	          ,
+	
 	 {
-        "title":"France 24",
+        "title":"إبن عثيمين",
         "provider":"youtube",
         "arguments":[
-          "UCdTyuXgmJkG_O8_75eqej-w",
-          "channel"
-
-        ]
-     }
-	         ,
-	 {
-        "title":"CNEWS FR",
-        "provider":"youtube",
-        "arguments":[
-          "UCXKJrYczY2_fJEZgFPGY0HQ",
+          "UCtF3YygTiodnYSw8vD3UJtQ",
           "channel"
 
         ]
      }
 	           ,
-	 {
-        "title":"France 24 FR",
-        "provider":"youtube",
-        "arguments":[
-          "UCCCPCZNChQdGa9EkATeye4g",
-          "channel"
-
-        ]
-     }
-	           ,
-	 {
-        "title":"BFMTV",
-        "provider":"youtube",
-        "arguments":[
-          "UCXwDLMDV86ldKoFVc_g8P0g",
-          "channel"
-
-        ]
-     }
-	           ,
-	 {
-        "title":"DOCUMENTAIRE",
-        "provider":"youtube",
-        "arguments":[
-          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
-          "channel"
-
-        ]
-     }
-	           ,
-	 {
-        "title":"AlArabiya قناة العربية ",
-        "provider":"youtube",
-        "arguments":[
-          "UCahpxixMCwoANAftn6IxkTg",
-          "channel"
-
-        ]
-     }
-	    ]
-		}
-	,
+	 
 	 {
    "title":"KSA1 Live",
     "drawable":"",
