@@ -56,6 +56,43 @@
         ]
      }
 	           ,
+		   {
+        "title":"قناة اقرأ",
+        "provider":"youtube",
+        "arguments":[
+          "UCiC_h4iC9s7Ddr3CT82_EpA",
+          "channel"
+
+        ]
+     },
+		  {
+        "title":"قناة زاد العلمية",
+        "provider":"youtube",
+        "arguments":[
+          "UCOll3M-P7oKs5cSrQ9ytt6g",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"قناة الرسالة",
+        "provider":"youtube",
+        "arguments":[
+          "UCBVUg4nQTryjzB2mQRNTJIw",
+          "channel"
+
+        ]
+     },
+	
+	 {
+        "title":"إبن عثيمين",
+        "provider":"youtube",
+        "arguments":[
+          "UCtF3YygTiodnYSw8vD3UJtQ",
+          "channel"
+
+        ]
+     },
  {
         "title":"France 24",
         "provider":"youtube",
