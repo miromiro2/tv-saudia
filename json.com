@@ -35,11 +35,31 @@
         ]
      }
 	    ,
- {
+	    {
         "title":"SBC Channel",
         "provider":"youtube",
         "arguments":[
           "UCfG0mfIwxrZn1MjsA994oAg",
+          "channel"
+
+        ]
+     }
+	    ,
+	    {
+        "title":"MBC1",
+        "provider":"youtube",
+        "arguments":[
+          "UCPvObfhnwu_QNi6mc4z5UPQ",
+          "channel"
+
+        ]
+     }
+	    ,
+ {
+        "title":"alquanat 9",
+        "provider":"youtube",
+        "arguments":[
+          "UCd7iPWvZCpXMIarpFhn_Bgg",
           "channel"
 
         ]
